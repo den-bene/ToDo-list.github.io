@@ -1,2 +1,3 @@
-# den-bene.github.io
-To-Do List project
+# To-Do List project
+
+> Small and simple project to practice HTML, CSS and JS
